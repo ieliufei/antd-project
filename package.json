@@ -1,0 +1,26 @@
+{
+  "name": "antd-project",
+  "version": "1.0.0",
+  "description": "antd+umi+dva, a basic scaffold for antd project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "umi dev",
+    "build": "umi build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ieliufei/antd-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ieliufei/antd-project/issues"
+  },
+  "homepage": "https://github.com/ieliufei/antd-project#readme",
+  "devDependencies": {
+    "dva": "^2.4.1",
+    "umi": "^2.6.10",
+    "umi-plugin-react": "^1.7.2"
+  }
+}
